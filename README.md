@@ -28,8 +28,8 @@ Eu sou a Luana Musial!\
   <br>
   <br>
   <div>
-   <a href="www.linkedin.com/in/musial-dev" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-   <a href = "luanamusial@hotmail.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"" target="_blank"></a>
+   <a href="https://www.linkedin.com/in/musial-dev" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+   <a href = "mailto:luanamusial@hotmail.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"" target="_blank"></a>
     <a href="https://wa.link/ez0eb9" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a> 
     <br>
   <img align="center" alt="Csharp" height="30" width="150" src="https://komarev.com/ghpvc/?username=Musial-dev&color=red" alt="Musial-dev" /> <br>
