@@ -1,5 +1,5 @@
 🗺️ Olá, mundo!\
-Eu sou a Luana Musial!\
+♓ Eu sou a Luana Musial!\
 🎓: Formada em Filosofia\
 💻: Front-End\
 🍀:  Em fase de transição de carreira\
