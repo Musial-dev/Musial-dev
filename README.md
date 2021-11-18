@@ -1,13 +1,10 @@
-Olá, mundo!\
-Eu sou a Luana Musial!\
-🎓: Formada em Filosofia\
-💻: Front-End\
-🍀:  Em fase de transição de carreira\
-🥋: Jiu-Jitsu\
+### Olá, mundo!
+### Eu sou a Luana Musial!
+🎓: Formada em Filosofia <br />
+💻: Front-End <br />
+🍀:  Em fase de transição de carreira <br />
+🥋: Jiu-Jitsu <br />
 🥊: Muay Thai 
-
-
-
 
 <div align="center">
   <a href="https://github.com/Musial-dev">
@@ -19,11 +16,11 @@ Eu sou a Luana Musial!\
  <img align="center" alt="HTML" height="50" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
  <img align="center" alt="CSS" height="50" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">  
  <img align="center" alt="bootstrp" height="50" width="80" src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/bootstrap/bootstrap-plain-wordmark.svg">
- <img align="center" alt="Js" height="50" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">  
+ <img align="center" alt="Js" height="50" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+ <img align="center" alt="react" height="50" width="80" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/react/react-original.svg">
+   
   <img align="right" alt="doll" height="150" src="https://uploaddeimagens.com.br/images/003/542/497/full/download20211104123250.png">
   </div>
-  
-  ##
   
   <br>
   <br>
