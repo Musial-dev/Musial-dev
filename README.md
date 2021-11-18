@@ -1,23 +1,36 @@
-### :robot: Hello Word! :cat:
+🗺️ Olá, mundo!\
+Eu sou a Luana Musial!\
+🎓: Formada em Filosofia\
+💻: Front-End\
+🍀:  Em fase de transição de carreira\
+🥋: Jiu-Jitsu\
+🥊: Muay Thai 
 
-:woman_student: Formada em Filosofia \
-:heart:         Ciência e Tecnologia \
-:computer: Front-End\
-:closed_book: Autodidata \
-:zap:                Pró-ativa \
-                :weight_lifting_woman: Musculação \
-:boom:            Muay Thai 
-                                       
- <p align="center">
-  <a href="mailto:luanamusial@hotmail.com?subject=Olá%20Luana%20Musial"><img src="https://img.shields.io/badge/hotmail-%23D14836.svg?&style=for-the-badge&logo=hotmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="www.linkedin.com/in/musial-dev"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 
-</p>
 
-<p align="right">
-<!--
-<img src="https://komarev.com/ghpvc/?username=Musial-dev&style=plastic&label=Views" />
--->
-<img src="https://badges.pufler.dev/visits/Musial-dev/Musial-dev?color=black&logo=github" />
-</p>
-                
+
+<div align="center">
+  <a href="https://github.com/Musial-dev">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Musial-dev&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Musial-dev&layout=compact&langs_count=7&theme=radical"/>
+</div>
+
+ <div style="display: inline_block"><br>
+ <img align="center" alt="HTML" height="50" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+ <img align="center" alt="CSS" height="50" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">  
+ <img align="center" alt="bootstrp" height="50" width="80" src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/bootstrap/bootstrap-plain-wordmark.svg">
+ <img align="center" alt="Js" height="50" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">  
+  <img align="right" alt="doll" height="150" src="https://uploaddeimagens.com.br/images/003/542/497/full/download20211104123250.png">
+  </div>
+  
+  ##
+  
+  <br>
+  <br>
+  <div>
+   <a href="www.linkedin.com/in/musial-dev" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+   <a href = "luanamusial@hotmail.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"" target="_blank"></a>
+    <a href="https://wa.link/ez0eb9" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a> 
+    <br>
+  <img align="center" alt="Csharp" height="30" width="150" src="https://komarev.com/ghpvc/?username=Musial-dev&color=red" alt="Musial-dev" /> <br>
+ </div>
