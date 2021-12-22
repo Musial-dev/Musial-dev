@@ -1,11 +1,12 @@
 ### Olá, mundo!
 ### Eu sou a Luana Musial!
+<img src="https://github.blog/wp-content/uploads/2018/10/46896184-b679fc80-ce30-11e8-88bf-921e9b788f7c.gif?resize=200%2C200" />
 🎓: Formada em Filosofia <br />
 💻: Front-End <br />
 🍀:  Em fase de transição de carreira <br />
 🥋: Jiu-Jitsu <br />
-🥊: Muay Thai 
-
+🥊: Muay Thai <br />
+<br />
 <div align="center">
   <a href="https://github.com/Musial-dev">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Musial-dev&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
