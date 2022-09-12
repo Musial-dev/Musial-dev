@@ -1,7 +1,7 @@
 ### Olá, mundo!
 <img align="right" alt="doll" height="150" src="https://uploaddeimagens.com.br/images/003/542/497/full/download20211104123250.png">
 
-💻 Desenvolvedora Front-End na SciCrop <br />
+💻 Desenvolvedora Front-End <br />
 :mortar_board: Analise e Desenvolvimento de Sistemas <br />
 :mortar_board: Filosofia <br />
 :hearts: Ciência e Tecnologia <br />
