@@ -1,11 +1,9 @@
 ### Olá, mundo!
-<img align="right" alt="doll" height="150" src="https://uploaddeimagens.com.br/images/003/542/497/full/download20211104123250.png">
 
 💻 Desenvolvedora Front-End <br />
 :mortar_board: Analise e Desenvolvimento de Sistemas <br />
 :mortar_board: Filosofia <br />
 :hearts: Ciência e Tecnologia <br />
-:martial_arts_uniform: Jiu-Jitsu <br /> 
 :boxing_glove:	Muay Thai <br />
 :weight_lifting_woman:	Musculação
 
@@ -14,8 +12,11 @@
 <div align="center">
   <a href="https://github.com/Musial-dev">
     </div>
+    <div>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Musial-dev&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Musial-dev&layout=compact&langs_count=7&theme=radical"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Musial-dev&layout=compact&langs_count=7&theme=radical"/>
+</div>
+    
 
 
 <div style="display: inline_block"><br>
