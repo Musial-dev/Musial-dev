@@ -17,6 +17,19 @@
 <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
 <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
 <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+<img src="https://img.shields.io/badge/Spring-43853D?style=for-the-badge&logo=spring&logoColor=white" />
+<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+<img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white" />
+<img src="https://img.shields.io/badge/Eclipse-563D7C?style=for-the-badge&logo=eclipse&logoColor=white" />
+<img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white" />
+<img src="https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6" />
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+
+
+
+
   <br>
   <br>
 
@@ -27,12 +40,13 @@
           
   <br>
 
-## 🤔 Alguns fatos para me conhecer melhor  
-💻 Sou Desenvolvedora Front-End <br />
+## 🤔 Alguns fatos para me conhecer melhor: 
+💻 Sou Desenvolvedora Full Stack <br />
 :mortar_board: Formada em Filosofia e Analise e Desenvolvimento de Sistemas <br />
-:hearts: Acredito que a Filosofia e a Programação tem mais em comum do que se imagina. Ambas compartilham o objetivo de investigar padrões, estruturas e possibilidades.  <br />
+:hearts: Acredito que a Filosofia e a Programação tem mais em comum do que se imagina.<br> 
+Ambas compartilham o objetivo de investigar padrões, estruturas e possibilidades.  <br />
 :boxing_glove: Sou praticante de Muay Thai e Musculação <br />
-✍🏻 Meu escritor favorito é Fiodor Dostoievski <br />
+✍🏻 Meus escritores favoritos são Fiodor Dostoievski e Hermann Hesse <br />
 🦊 Muito fã de Naruto 
 
 
